@@ -22,7 +22,7 @@ Hi, I'm Mikail, a passionate engineering graduate specialised in Electronics-ICT
 &nbsp;
 
 
-![Mikail's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
+![Mikail's github stats](https://github-readme-stats.vercel.app/api?username=Mikail3&show_icons=true&hide_border=true)
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/Mikail3/)
 
