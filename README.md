@@ -5,7 +5,6 @@ Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT.
   <img align="left" alt="Mikail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
 
