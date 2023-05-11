@@ -1,17 +1,10 @@
 ### Hey 👋, I'm [Mikail!](https://github.com/Mikail3)
 
 
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mikail-cinar-037bb5197/">
+  <img align="left" alt="Mikail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
- <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
-<br />
-<br />
-
+ 
 Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT. Enthusiastic in Embedded systems, Automation, Electronics and IoT. 
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
@@ -24,9 +17,7 @@ Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT.
 
 - 🎓 Graduated in Electronics - ICT
 -  Internet of Things, Automation, Machine Learning , Embedded Systems
-- Python , C, C++
--  Html, CSS, React
--  Postgres, MySQL
+-  Python , C, C++
 -  ZeroMQ, MQTT, OPC-UA, MODBUS
 :alien: I should upload more personal projects
 
