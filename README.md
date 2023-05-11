@@ -17,6 +17,7 @@ Hi, I'm Mikail, a passionate engineering graduate specialised in Electronics-ICT
 -  Internet of Things, Automation, Machine Learning , Embedded Systems
 -  Python , C, C++
 -  ZeroMQ, MQTT, OPC-UA, MODBUS
+-  Some skills in Azure and AWS
 -  :alien: I should upload more personal projects
 
 &nbsp;
