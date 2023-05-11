@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Mikail!](https://github.com/Mikail3)
+I'm [Mikail!](https://github.com/Mikail3)
 
 
 <a href="https://www.linkedin.com/in/mikail-cinar-037bb5197/">
