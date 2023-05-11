@@ -1,4 +1,4 @@
-Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT. Enthusiastic in Embedded systems, Automation, Electronics and IoT. 
+Hi, I'm Mikail, a passionate engineering graduate specialised in Electronics-ICT. Enthusiastic in Embedded systems, Automation, Electronics and IoT. 
 
 
 <a href="https://www.linkedin.com/in/mikail-cinar-037bb5197/">
