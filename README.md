@@ -4,7 +4,7 @@ I'm [Mikail!](https://github.com/Mikail3)
 <a href="https://www.linkedin.com/in/mikail-cinar-037bb5197/">
   <img align="left" alt="Mikail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT. Enthusiastic in Embedded systems, Automation, Electronics and IoT. 
+- Hi, I'm Mikail,a passionate engineering graduate specialised in Electronics-ICT. Enthusiastic in Embedded systems, Automation, Electronics and IoT. 
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
